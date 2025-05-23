@@ -7,3 +7,7 @@ x = a+b
 # subtraction function 
 
 x = a-b
+
+# division function
+
+x= a%b
