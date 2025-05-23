@@ -3,3 +3,7 @@
 # addition function
 
 x = a+b
+
+# subtraction function 
+
+x = a-b
