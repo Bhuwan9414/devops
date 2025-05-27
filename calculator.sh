@@ -13,3 +13,7 @@ x = a-b
 x= a%b
 
 # this is division
+#
+# addition function
+
+x = a+b
